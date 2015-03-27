@@ -1,5 +1,5 @@
-defmodule HelloPhoenix.HelloController do
-  use HelloPhoenix.Web, :controller
+defmodule PhoenixTutorial.HelloController do
+  use PhoenixTutorial.Web, :controller
 
   plug :action
 
